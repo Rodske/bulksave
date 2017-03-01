@@ -1,1 +1,3 @@
-alert('Script included');
+function saveDetails(){
+  alert('Script included');
+}
